@@ -14,7 +14,9 @@ Combined with the AudioClassifier you can play Wolfenstein 3D using sounds:
 
 
 Or play Tetris with FaceTracker2OSC
+
 ![](http://projects.stoj.io/keyboard-controller/face-tetris.gif)
+
 
 
 ## Usage
