@@ -1,4 +1,4 @@
-# Osc Keyboard Controller
+# Keyboard Controller Osc
 
 This interface enables you to simulate keystrokes in any application over OSC. 
 
